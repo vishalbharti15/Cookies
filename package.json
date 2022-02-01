@@ -12,5 +12,14 @@
     "start": "node app"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalbharti15/Cookies.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vishalbharti15/Cookies/issues"
+  },
+  "homepage": "https://github.com/vishalbharti15/Cookies#readme"
 }
